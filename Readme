@@ -1,0 +1,6 @@
+Python 3.10
+activate a venv and pip install -r "requirements.txt"
+
+pip freeze > requirements.txt to update dependencies
+
+python main.py should run all files when complete

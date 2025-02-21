@@ -6,3 +6,5 @@ pip freeze > requirements.txt to update dependencies (PLEASE DO THIS BEFORE YOU 
 python main.py should run all files when complete
 
 data should hold our data (probably grab from yahoo finance or such) scripts are sketelon but shown in the scripts section and we can create evaluation scripts in eval
+
+PLEASE GIT PULL CONSISTENTALLY SO WE CAN MITIGATE DEALING WITH MOST MERGE CONFLICTS

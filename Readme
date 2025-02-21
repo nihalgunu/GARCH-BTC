@@ -4,3 +4,9 @@ activate a venv and pip install -r "requirements.txt"
 pip freeze > requirements.txt to update dependencies
 
 python main.py should run all files when complete
+
+data should hold our data (probably grab from yahoo finance or such)
+
+scripts are sketelon but shown in the scripts section
+
+and we can create evaluation scripts in eval

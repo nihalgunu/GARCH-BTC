@@ -27,6 +27,7 @@ def gjr_garch_filter(omega, alpha, gamma, beta, eps):
     
     return sigma2
 
+#gjr garch loglike for testing
 @jit(nopython=True)
 def gjr_garch_loglike(params, returns):
     mu, omega, alpha, gamma, beta = params
